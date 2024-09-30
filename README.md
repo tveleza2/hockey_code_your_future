@@ -1,1 +1,1 @@
-# hockey_code_your_future
+# Migthy Ducks Hockey League
